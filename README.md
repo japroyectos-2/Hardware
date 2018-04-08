@@ -6,6 +6,4 @@
 #### Anna Cafaro. 12-10997.
 #### Profesor: Novel Certad.
 
-
-
-Documentación correspondiente a los componentes utilizados. Simulaciones de los circuitos implementados en el diseño.
+Este repositorio presenta la documentación correspondiente a las características principales de los componentes utilizados y de los circuitos diseñados, incluyendo la descripción de las etapas de funcionamientos, así como las simulaciones correspondientes. 
